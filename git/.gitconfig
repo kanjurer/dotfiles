@@ -1,0 +1,23 @@
+# author: Kanav Bhardwaj
+
+# global config
+[user]
+    name = "Kanav Bhardwaj"
+    email = "kanavb9999@gmail.com"
+[credential "https://github.com"]
+	provider = generic
+[core]
+	editor = vim
+[init]
+	defaultbranch = main
+
+
+# git profiles
+[includeIf "gitdir:E:/personal/"]
+    path = ~/personal.gitconfig
+
+[includeIf "gitdir:E:/school/"]
+    path = ~/school.gitconfig
+
+[includeIf "gitdir:E:/work/"]
+    path = ~/work.gitconfig
