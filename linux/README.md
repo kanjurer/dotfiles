@@ -1,6 +1,6 @@
-# dotfiles
+# dotfiles for linux
 
-These are my dotfiles.
+Config files for vim, bash, zsh
 
 To install:
 

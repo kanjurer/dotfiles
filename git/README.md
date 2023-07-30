@@ -1,6 +1,6 @@
-# dotfiles
+# dotfiles for git
 
-These are my dotfiles.
+Config files for git with work, school, and personal profiles.
 
 To install:
 
