@@ -5,4 +5,4 @@
 	email = kn947171@dal.ca
  
 [credential "https://git.cs.dal.ca"]
-	provider = generic
+	helper = manager

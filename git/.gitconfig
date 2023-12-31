@@ -5,7 +5,7 @@
     name = "Kanav Bhardwaj"
     email = "kanavb9999@gmail.com"
 [credential "https://github.com"]
-	provider = generic
+	helper = manager
 [core]
 	editor = vim
 [init]
