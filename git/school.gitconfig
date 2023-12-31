@@ -1,8 +1,7 @@
 # author: Kanav Bhardwaj
 
 [user]
-	name = Kanav Bhardwaj
-	email = kn947171@dal.ca
- 
+	name = "Kanav Bhardwaj"
+	email = "kn947171@dal.ca"
 [credential "https://git.cs.dal.ca"]
 	helper = manager

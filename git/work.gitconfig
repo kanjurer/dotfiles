@@ -1,5 +1,7 @@
 # author: Kanav Bhardwaj
 
 [user]
-    name = Kanav Bhardwaj
-    email = kanav.bhardwaj@company.com
+    name = "Kanav Bhardwaj"
+    email = "kanav.bhardwaj@company.com"
+[credential "https://github.com"]
+	helper = manager

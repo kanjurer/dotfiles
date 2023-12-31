@@ -1,7 +1,7 @@
 # author: Kanav Bhardwaj
 
 [user]
-	name = kanjurer
-	email = kanavb9999@gmail.com
+	name = "kanjurer"
+	email = "kanavb9999@gmail.com"
 [credential "https://github.com"]
-	provider = generic
+	helper = manager
