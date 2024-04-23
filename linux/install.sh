@@ -7,12 +7,12 @@
 # Takes an optional parameter to specify the destination of install
 
 shopt -s dotglob
-for filename in *; do
-    src="${PWD}/${filename}"
-    dest=${1:-~/kokka}
-    ln -s ${src} ${dest}
-    echo "Copying ${filename}"
-done
+# for filename in *; do
+#     src="${PWD}/${filename}"
+#     dest=${1:-~/kokka}
+#     ln -s ${src} ${dest}
+#     echo "Copying ${filename}"
+# done
 
 echo "Installation completed!"
 shopt -u dotglob
