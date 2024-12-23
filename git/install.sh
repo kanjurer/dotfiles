@@ -5,7 +5,7 @@
 # It installs the git config files by creating symlinks at the user level ~/
 # Takes an optional parameter to specify the destination of install
 
-windows() { [[ -n "$WINDIR" ]]; }
+windows() { false; }
 echo ""
 # Check operating system
 if windows; then
